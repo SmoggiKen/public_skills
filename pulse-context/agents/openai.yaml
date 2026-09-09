@@ -1,0 +1,3 @@
+interface:
+  display_name: "Pulse Context"
+  short_description: "Pulse architecture, runbook, deployment, and repo constraints"

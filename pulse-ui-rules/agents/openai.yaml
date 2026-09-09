@@ -1,0 +1,3 @@
+interface:
+  display_name: "Pulse UI Rules"
+  short_description: "Pulse-specific admin and dashboard builder UI rules"
